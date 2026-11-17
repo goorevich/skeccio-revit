@@ -5,7 +5,11 @@ Skeccio project. This repository is where the add-in is downloaded; Skeccio itse
 
 ## Download
 
-Latest version: [Releases](https://github.com/goorevich/skeccio-revit/releases/latest). Two editions; install one of them.
+Stable version: [0.5.2](https://github.com/goorevich/skeccio-revit/releases/latest).
+
+Preview: [1.0.0](https://github.com/goorevich/skeccio-revit/releases/tag/v1.0.0), build `e30de6c`. Local reading starts automatically; **Edit** permits changes to the active document, and changing documents ends Edit. Runtime verification in both Revit 2024 and 2026 is still pending, so this is a pre-release. The instructions below describe stable 0.5.2; for 1.0.0, use the README included in its archive.
+
+Two editions; install one of them.
 
 | Edition | For | Contains |
 | --- | --- | --- |
